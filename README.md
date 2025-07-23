@@ -9,6 +9,9 @@ Hobby project I made during the weekend, not fully completed but I proved the co
 ### Serial Communication Test  
 [![Watch the video](https://img.youtube.com/vi/gJDfuzPGHt4/0.jpg)](https://youtu.be/gJDfuzPGHt4)
 
+### Mechanical Design
+[![Watch the video](https://img.youtube.com/vi/FLuUD44XaKI/0.jpg)](https://youtu.be/FLuUD44XaKI)
+
 This repository contains resources for the `robotArm` project, including CAD files, controller code, and ROS nodes.
 
 ## Structure
